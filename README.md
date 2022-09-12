@@ -1,6 +1,6 @@
 ### Sup nerds 👋
 
-Personal website
+Check out my website
 
 [https://zackjackson.vercel.app/](https://zackjackson.vercel.app/)
 
